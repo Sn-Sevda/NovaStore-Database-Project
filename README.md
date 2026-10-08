@@ -50,7 +50,7 @@ Bu çalışma; ilişkisel veri tabanı tasarımı (DDL), veri manipülasyonu (DM
 ![View Test](screenshots/view_test.png)
 
 * **Tam Veritabanı Yedeği (Backup):**
-![Backup](screenshots/backup.png)
+![Backup](screenshots/backup .png)
 
 ---
 
@@ -63,4 +63,4 @@ Bu çalışma; ilişkisel veri tabanı tasarımı (DDL), veri manipülasyonu (DM
 ---
 
 ## 👤 Geliştirici
-* **Adı Soyadı:** [Sevda Elif SAYIN]
+* **Adı Soyadı:** Sevda Elif SAYIN
